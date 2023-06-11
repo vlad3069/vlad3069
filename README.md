@@ -1,16 +1,18 @@
-### Hi there 👋
+<h1 align="center">Hi there, I'm target="_blank">Vladislav</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-<!--
-**vlad3069/vlad3069** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br />
 
-Here are some ideas to get you started:
+<a href="https://t.me/V_l_a_d_96">
+  <img src="https://github.com/vlad3069/vlad3069/raw/main/images/Telegram_logo.svg" height="40" />
+</a>
+<a href="mailto:vladislav.podtyazhkin@yandex.ru">
+  <img src="https://github.com/vlad3069/vlad3069/raw/main/images/Yandex_logo_en.svg" height="40" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+<br />
+
+Hi, I'm Vladislav Podtyazhkin, a Python Backend developer engineer from Russia 🇷🇺. Dedicated to being a fullstack engineer.
+
+<a href="#"><img align="right" src="https://github.com/vlad3069/vlad3069/raw/main/images/IMG_20210408_183611.jpg" width="200 " height="200" /></a>
