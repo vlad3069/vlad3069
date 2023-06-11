@@ -31,11 +31,11 @@ Hi, I'm Vladislav Podtyazhkin, a Python Backend developer engineer from Russia ð
 **Languages and Tools:**
 
 <p>
-<img src="https://github.com/vlad3069/vlad3069/raw/main/images/Django_logo.svg" height="40" style="vertical-align:down; margin:4px" alt="Django">
+<img src="https://github.com/vlad3069/vlad3069/raw/main/images/Django_logo.svg"&nbsp;&nbsp; height="40" style="vertical-align:down; margin:4px" alt="Django">
 <img src="https://github.com/vlad3069/vlad3069/raw/main/images/Python-logo-notext.svg" height="40" style="vertical-align:down; margin:4px" alt="Python">
 <img src="https://github.com/vlad3069/vlad3069/raw/main/images/Docker_(container_engine)_logo.svg" height="40" style="vertical-align:down; margin:4px" alt="Docker">
 <img src="https://github.com/vlad3069/vlad3069/raw/main/images/PostgreSQL_logo.3colors.svg" height="40" style="vertical-align:down; margin:4px" alt="SQL">
 </p>
 
-<a href="https://github.com/vlad3069" alt="https://github.com/vlad3069"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=CREATED%20BY&message=vlad3069&color=000000"></a>
+<a href="https://github.com/vlad3069" alt="https://github.com/vlad3069"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=CREATED%20BY&message=Vladislav&color=000000"></a>
 <a href="https://github.com/vlad3069/vlad3069/blob/main/LICENSE" alt="https://github.com/vlad3069/vlad3069/blob/main/LICENSE"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=LICENSE&message=MIT&color=000000"></a>
