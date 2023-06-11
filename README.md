@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm >Vladislav</a> 
+<h1 align="center">Hi there, I'm Vladislav</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 <br />
@@ -6,7 +6,7 @@
 <a href="https://t.me/V_l_a_d_96">
   <img src="https://github.com/vlad3069/vlad3069/raw/main/images/Telegram_logo.svg" height="40" />
 </a>
-<a href="mailto:vladislav.podtyazhkin@yandex.ru">Почта</a>
+<a href="mailto:vladislav.podtyazhkin@yandex.ru">
   <img src="https://github.com/vlad3069/vlad3069/raw/main/images/Yandex_logo_en.svg" height="40" />
 </a>
 
