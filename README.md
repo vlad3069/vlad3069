@@ -22,7 +22,7 @@ Hi, I'm Vladislav Podtyazhkin, a Python Backend developer engineer from Russia �
 
 - <a href='https://github.com/vlad3069/yamdb_final' target='_blank'>Проект API YaMDb с применением CI/CD</a> - 2023-04-20
   <br/> Проект собирает отзывы пользователей на различные произведения такие как фильмы, книги и музыка.
-- <a href='https://github.com/vlad3069/foodgram-project-react' target='_blank'>Проект Yatube</a> - 2022-10-20
+- <a href='https://github.com/vlad3069/yatube_project' target='_blank'>Проект Yatube</a> - 2022-10-20
   <br/> Проект для публикации блогов на темплейтах без API.
 - <a href='https://github.com/vlad3069/foodgram-project-react' target='_blank'>Проект Foodrgam</a> - 2023-05-20
   <br/> Проект сайта, где можно делиться своими рецептами и генерировать список покупок в зависимости от того что хотите приготовить.
