@@ -13,7 +13,7 @@
 <br />
 <br />
 
-Hi, I'm Vladislav Podtyazhkin, a Python Backend developer engineer from Russia 🇷🇺. Dedicated to being a fullstack engineer.
+Hi, I'm Vladislav Podtyazhkin, a Python Backend developer engineer. Dedicated to being a fullstack engineer.
 
 <a href="#"><img align="right" src="https://github.com/vlad3069/vlad3069/raw/main/images/IMG_20210408_183611.jpg" width="400 " height="200" /></a>
 
