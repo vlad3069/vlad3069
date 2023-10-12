@@ -20,6 +20,8 @@ Hi, I'm Vladislav Podtyazhkin, a Python Backend developer engineer. Dedicated to
 
 ## ⛳️ Project Release
 
+- <a href='https://github.com/Marketplace-of-graphic-images' target='_blank'>Проект Маркетплэйс Графических Изображений</a> - 2023-10-10
+  <br/> Проект предназначен для управления и предоставления доступа к графическим изображениям, где пользователи могут просматривать и приобретать изображения.
 - <a href='https://github.com/vlad3069/yamdb_final' target='_blank'>Проект API YaMDb с применением CI/CD</a> - 2023-04-20
   <br/> Проект собирает отзывы пользователей на различные произведения такие как фильмы, книги и музыка.
 - <a href='https://github.com/vlad3069/yatube_project' target='_blank'>Проект Yatube</a> - 2022-10-20
