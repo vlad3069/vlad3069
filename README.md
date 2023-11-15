@@ -3,23 +3,30 @@
 
 <br />
 
-<a href="https://t.me/V_l_a_d_96">
-  <img src="https://github.com/vlad3069/vlad3069/raw/main/images/Telegram_logo.svg" height="40" />
-</a>
-<a href="mailto:vladislav.podtyazhkin@yandex.ru">
-  <img src="https://github.com/vlad3069/vlad3069/raw/main/images/Yandex_logo_en.svg" height="40" />
-</a>
-
-<br />
-<br />
-
-Hi, I'm Vladislav Podtyazhkin, a Python Backend developer engineer. Dedicated to being a fullstack engineer.
+### :man_technologist: About me:
 
 <a href="#"><img align="right" src="https://github.com/vlad3069/vlad3069/raw/main/images/IMG_20210408_183611.jpg" width="400 " height="200" /></a>
+
+Меня зовут Владислав, и я начинающий разработчик. В данный момент занимаюсь разработкой на Python. Обучение Python проходило по средствам курсов, а также различной литературы, статей на хабре и общении с более опытными разработчиками. В настоящий момент активно ищу работу, чтобы применять свои навыки на практике. В настоящее время я развиваю навыки в областях Python, SQL, FastAPI и Django, стремясь стать профессиональным разработчиком.
+
+### Contacts:
+
+<a href="https://t.me/V_l_a_d_96">
+  <img src="https://github.com/vlad3069/vlad3069/raw/main/images/Telegram_logo.svg" height="20" /> t.me/V_l_a_d_96
+</a> 
+<br>
+<a href="mailto:vladislav.podtyazhkin@yandex.ru">
+  <img src="https://github.com/vlad3069/vlad3069/raw/main/images/Yandex_logo_en.svg" height="20" /> vladislav.podtyazhkin@yandex.ru
+</a>
+
+<br />
+<br />
 
 
 ## ⛳️ Project Release
 
+- <a href='https://github.com/movement-dev-company/SceneStock-backend/tree/dev' target='_blank'>Проект SceneStock</a> - 2023-11-10
+  <br/> Проект SceneStock предоставляет интерфейс, реализованный с использованием FastAPI, который обеспечивает обмен графическими изображениями.
 - <a href='https://github.com/Marketplace-of-graphic-images' target='_blank'>Проект Маркетплэйс Графических Изображений</a> - 2023-10-10
   <br/> Проект предназначен для управления и предоставления доступа к графическим изображениям, где пользователи могут просматривать и приобретать изображения.
 - <a href='https://github.com/vlad3069/yamdb_final' target='_blank'>Проект API YaMDb с применением CI/CD</a> - 2023-04-20
@@ -38,11 +45,17 @@ Hi, I'm Vladislav Podtyazhkin, a Python Backend developer engineer. Dedicated to
 
 **Languages and Tools:**
 
-<p>
-<img src="https://github.com/vlad3069/vlad3069/raw/main/images/Django_logo.svg"&nbsp;&nbsp; height="40" style="vertical-align:down; margin:4px" alt="Django">
-<img src="https://github.com/vlad3069/vlad3069/raw/main/images/Python-logo-notext.svg" height="40" style="vertical-align:down; margin:4px" alt="Python">
-<img src="https://github.com/vlad3069/vlad3069/raw/main/images/Docker_(container_engine)_logo.svg" height="40" style="vertical-align:down; margin:4px" alt="Docker">
-<img src="https://github.com/vlad3069/vlad3069/raw/main/images/PostgreSQL_logo.3colors.svg" height="40" style="vertical-align:down; margin:4px" alt="SQL">
+<p align="left">
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /></a>
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://github.com/vlad3069/vlad3069/raw/main/images/Django_logo.svg"&nbsp;&nbsp; height="30" style="vertical-align:down; margin:4px" alt="Django"/></a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/vlad3069/vlad3069/raw/main/images/Docker_(container_engine)_logo.svg" height="30" style="vertical-align:down; margin:4px" alt="Docker"></a> 
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="36" height="36"/> </a>
+<a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="36" height="36"/> </a>
+<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="36" height="36"/> </a>
+<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="36" height="36"/> </a>
 </p>
 
 <a href="https://github.com/vlad3069" alt="https://github.com/vlad3069"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=CREATED%20BY&message=Vladislav&color=000000"></a>
