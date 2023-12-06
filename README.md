@@ -3,7 +3,7 @@
 
 <br />
 
-### :man_technologist: About me:
+### About me:
 
 <a href="#"><img align="right" src="https://github.com/vlad3069/vlad3069/raw/main/images/IMG_20210408_183611.jpg" width="400 " height="200" /></a>
 
