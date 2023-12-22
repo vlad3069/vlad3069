@@ -25,6 +25,8 @@
 
 ## ⛳️ Project Release
 
+- <a href='https://github.com/Point-return/Point-return-backend' target='_blank'>Проект для компании «Prosept»</a> - 2023-12-09
+  <br/> Проект для компании «Prosept», разработанный на современном веб-фреймворке FastApi для разработки решения, по автоматизации процесса сопоставления товаров.
 - <a href='https://github.com/movement-dev-company/SceneStock-backend/tree/dev' target='_blank'>Проект SceneStock</a> - 2023-11-10
   <br/> Проект SceneStock предоставляет интерфейс, реализованный с использованием FastAPI, который обеспечивает обмен графическими изображениями.
 - <a href='https://github.com/Marketplace-of-graphic-images' target='_blank'>Проект Маркетплэйс Графических Изображений</a> - 2023-10-10
